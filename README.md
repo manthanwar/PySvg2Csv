@@ -1,6 +1,6 @@
-[![PyPI](https://img.shields.io/pypi/v/pysvg2csv?logo=pypi)](https://pypi.org/project/PySvg2Csv/)&nbsp;
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pysvg2csv?logo=python&)](#)&nbsp;
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/pysvg2csv.svg?logo=python)](https://pypistats.org/packages/pysvg2csv?logo=pypi)&nbsp;
+[![PyPI](https://img.shields.io/pypi/v/pysvg2csv)](https://pypi.org/project/PySvg2Csv/)&nbsp;
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pysvg2csv)](#)&nbsp;
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/pysvg2csv)](https://pypistats.org/packages/pysvg2csv)&nbsp;
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/manthanwar/PySvg2Csv/total?logo=github)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/manthanwar/PySvg2Csv?&color=purple&logo=github)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Version-2025--09--23-blue)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
