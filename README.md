@@ -1,11 +1,10 @@
 [![PyPI](https://img.shields.io/pypi/v/pysvg2csv.svg)](https://pypi.org/project/PySvg2Csv/)&nbsp;
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pysvg2csv.svg)](#)&nbsp;
 [![PyPI - Downloads](https://img.shields.io/pypi/dw/pysvg2csv.svg)](https://pypistats.org/packages/pysvg2csv)&nbsp;
-![GitHub repo size](https://img.shields.io/github/repo-size/:user/:repo?labelColor=green&color=pink)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/manthanwar/PySvg2Csv?&color=purple)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/manthanwar/PySvg2Csv/total)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Version-2025--09--23-blue)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-maroon.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-maroon.svg)](https://opensource.org/licenses/MIT)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Test-Passing-teal)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 
 # PySvg2Csv
