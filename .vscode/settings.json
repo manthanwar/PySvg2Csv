@@ -98,7 +98,7 @@
 
     },
     "markdownlint.config": { "extends": ".vscode/markdownlint.json" },
-    "markdown.preview.fontSize": 20,
+    "markdown.preview.fontSize": 16,
     "markdown.preview.lineHeight": 1.5,
     "markdown.preview.scrollPreviewWithEditor": true,
     "markdown.preview.scrollEditorWithPreview": true,
@@ -703,7 +703,7 @@
         "*.fd": "latex",
         "*.sty": "latex",
         "*.tex": "latex",
-        // "*.svg": "html",
+        "*.svg": "html",
         "*.thor": "ruby",
         "*.xml": "html",
         "Jenkinsfile*": "groovy",
@@ -1350,7 +1350,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": true,
-    "svg.preview.background": "white",
+    // "svg.preview.background": "custom",
     "[toml]": {
         "editor.defaultFormatter": "tamasfe.even-better-toml"
     },
