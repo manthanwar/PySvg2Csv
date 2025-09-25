@@ -35,8 +35,8 @@ latex_paths = create_latex_paths(node_coords)
 
 # print("Node Coordinates:", node_coords)
 # priclaernt("LaTeX Paths:", latex_paths)
-# print("Node Coordinates:", *node_coords, sep='\n')
-# print("LaTeX Paths:", *latex_paths, sep='\n')
+print("Node Coordinates:", *node_coords, sep='\n')
+print("LaTeX Paths:", *latex_paths, sep='\n')
 
 
 def get_large_fp_array() -> list[float]:

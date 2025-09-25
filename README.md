@@ -32,7 +32,7 @@ The `path` element is the most powerful element in the SVG library of basic shap
 
 ### Example 1: file containing three curves
 
-[![Simple Curves](data/curves.svg)](![data/curves.svg](https://raw.githubusercontent.com/manthanwar/PySvg2Csv/refs/heads/main/data/curves.svg))
+![Simple Curves](https://raw.githubusercontent.com/manthanwar/PySvg2Csv/refs/heads/main/data/curves.svg)
 
 
 ```python
@@ -47,7 +47,7 @@ print("LaTeX Paths:", *latex_paths, sep='\n')
 
 ### Example 2: file containing multiple Bézier paths
 
-[![Trident](data/trident.svg)](https://raw.githubusercontent.com/manthanwar/PySvg2Csv/refs/heads/main/data/trident.svg)
+![Trident](https://raw.githubusercontent.com/manthanwar/PySvg2Csv/refs/heads/main/data/trident.svg)
 
 ```python
 from pysvg2csv.svg2csv import *
