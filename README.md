@@ -1,14 +1,14 @@
 [![PyPI](https://img.shields.io/pypi/v/pysvg2csv)](https://pypi.org/project/PySvg2Csv/)&nbsp;
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/pysvg2csv)](https://pypistats.org/packages/pysvg2csv)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-maroon.svg)](https://opensource.org/licenses/MIT)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Test-Passing-teal)](https://github.com/manthanwar/PySvg2Csv)&nbsp;
 
+<!-- [![PyPI - Downloads](https://img.shields.io/pypi/dm/pysvg2csv)](https://pypistats.org/packages/pysvg2csv)&nbsp; -->
 <!-- [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/manthanwar/PySvg2Csv/total?logo=github)](https://github.com/manthanwar/PySvg2Csv)&nbsp; -->
 <!-- [![GitHub repo size](https://img.shields.io/github/repo-size/manthanwar/PySvg2Csv?&color=purple&logo=github)](https://github.com/manthanwar/PySvg2Csv)&nbsp; -->
 
 # PySvg2Csv
 
-**Amit M. Manthanwar** _25 September 2025_
+**Amit M. Manthanwar** _02 October 2025_
 
 ```sh
 pip install pysvg2csv
@@ -36,7 +36,7 @@ The `path` element is the most powerful element in the SVG library of basic shap
 
 
 ```python
-from pysvg2csv.svg2csv import *
+from pysvg2csv import *
 
 node_coords = extract_node_coordinates("data-svg/curves.svg")
 print("Node Coordinates:", *node_coords, sep='\n')
@@ -50,7 +50,7 @@ print("LaTeX Paths:", *latex_paths, sep='\n')
 ![Trident](https://raw.githubusercontent.com/manthanwar/PySvg2Csv/refs/heads/main/data/trident.svg)
 
 ```python
-from pysvg2csv.svg2csv import *
+from pysvg2csv import *
 
 node_coords = extract_node_coordinates("data-svg/trident.svg")
 print("Node Coordinates:", *node_coords, sep='\n')

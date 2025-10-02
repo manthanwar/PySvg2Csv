@@ -1,6 +1,6 @@
 [project]
 name = "pysvg2csv"
-version = "2025.9.25"
+version = "2025.10.02"
 description = "Package to convert SVG paths to CSV data and LaTeX commands"
 authors = [
     { name = "Amit Manohar Manthanwar", email = "manthanwar@hotmail.com" },
